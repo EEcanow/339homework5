@@ -65,11 +65,11 @@ footer{
 
 } 
 
-#logo{
+/*#logo{
   animation-name: logo_wiggle; 
   animation-duration: 15s;
   
-}
+} */
 
 /* Cards! */
 .pricing{
@@ -225,11 +225,11 @@ header{
   /*Your code here again.*/
   /*You will want four selectors*/  
 }
-@media screen and (prefers-reduced-motion: reduce){
+/*@media screen and (prefers-reduced-motion: reduce){
   #logo{
       animation: none; /* Removes scroll animation */
   }
-}
+} */
 
 
 /*Your code here again.*/ 
