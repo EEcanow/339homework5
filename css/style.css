@@ -219,7 +219,7 @@ header{
   .pricing{
     align-items: flex-start;
   }
-  .gallery #gallery{
+  .gallery, #gallery{
     display: none;
   }
   /*Your code here again.*/
