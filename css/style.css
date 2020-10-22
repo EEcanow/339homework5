@@ -69,7 +69,7 @@ footer{
   animation-name: logo_wiggle; 
   animation-duration: 15s;
   
-} 
+}
 
 /* Cards! */
 .pricing{
@@ -78,6 +78,7 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
   
 }
 
@@ -198,8 +199,7 @@ header{
 
   }
 
-  .nav_links{
-    display: flex;  
+  .nav_links{ 
     flex-direction: row;
 
   }
@@ -229,7 +229,7 @@ header{
   #logo{
       animation: none; /* Removes scroll animation */
   }
-} 
+}
 
 
 /*Your code here again.*/ 
